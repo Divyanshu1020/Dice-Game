@@ -1,13 +1,18 @@
 
 import './App.css'
+import Navbar from './Component/Navbar/Navbar'
+import StartingPage from './Component/StartingPage/StartingPage'
+
 
 function App() {
-  
+
 
   return (
-   <div>
+    <div className='App'>
 
-   </div>
+       {/* <Navbar/> */}
+       <StartingPage/>
+    </div>
   )
 }
 
