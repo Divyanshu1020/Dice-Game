@@ -1,7 +1,7 @@
 import React from 'react'
 import './StartingPage.css'
 
-export default function StartingPage() {
+export default function StartingPage({startGame}) {
   return (
     <div className='container'>
         <div className="image">
@@ -11,7 +11,7 @@ export default function StartingPage() {
         <div className="start">
             <h1>Dice Game</h1>
             <h3>Guess The Number</h3>
-            <button>Start</button>
+            <button onClick={()=>{startGame()}}>Start</button>
         </div>
     </div>
   )

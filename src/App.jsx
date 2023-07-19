@@ -1,17 +1,22 @@
 
+import { useState } from 'react'
 import './App.css'
-import Navbar from './Component/Navbar/Navbar'
 import StartingPage from './Component/StartingPage/StartingPage'
+import Game from './Component/Game/Game';
 
 
 function App() {
-
+const [start,setStart] = useState(true);
+// changing between Game and Starting game 
+const startGame = ()=>{
+  setStart(!start);
+}
 
   return (
     <div className='App'>
 
-       {/* <Navbar/> */}
-       <StartingPage/>
+
+       {start ?<StartingPage startGame = {startGame}/> : <Game/>}
     </div>
   )
 }

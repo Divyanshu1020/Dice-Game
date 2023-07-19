@@ -1,0 +1,11 @@
+h1{
+    font-size: 100px;
+}
+p{
+    font-size: 25px;
+    font-weight: 500px;
+}
+.Score{
+    max-width: 200px;
+    text-align: center;
+}
