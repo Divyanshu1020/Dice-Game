@@ -3,7 +3,7 @@ Dice Game is an exciting and challenging app built with React that puts your gue
 
 ## Demo
 
-You can find a live demo of the Task Management App [here](https://divyanshu-dice-game.web.app/).
+You can find a live demo of the Dice-Game [here](https://divyanshu-dice-game.web.app/).
 
 ## Screenshots
 
