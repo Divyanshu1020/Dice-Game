@@ -8,9 +8,9 @@ You can find a live demo of the Task Management App [here](https://divyanshu-dic
 ## Screenshots
 
 ## Features
--Intuitive Interface: Our user-friendly interface makes it easy for players of all ages to enjoy the game effortlessly.
--Realistic Dice: We've designed the dice with great attention to detail, creating a lifelike rolling experience for an immersive gaming adventure.
--In-Game Rewards: Earn exciting rewards as you make accurate predictions and reach higher levels.
+- Intuitive Interface: Our user-friendly interface makes it easy for players of all ages to enjoy the game effortlessly.
+- Realistic Dice: We've designed the dice with great attention to detail, creating a lifelike rolling experience for an immersive gaming adventure.
+- In-Game Rewards: Earn exciting rewards as you make accurate predictions and reach higher levels.
 
 ## How to Play
 
